@@ -1,0 +1,6 @@
+@AuthEngine_HostAddress = http://localhost:5065
+
+GET {{AuthEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
